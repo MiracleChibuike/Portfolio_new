@@ -16,7 +16,7 @@
 }
 
 .parent {
-  background: var(--dark-bg);
+  background: var(--transparent-blue);
   color: var(--white-color);
 }
 
